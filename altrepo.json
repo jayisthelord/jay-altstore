@@ -1,0 +1,22 @@
+{
+    "name": "Jay`s altstore bundle",
+    "identifier": "jayaltbundle",
+    "apps": [
+      {
+        "name": "Enmity",
+        "bundleIdentifier": "com.hammerandchisel.discord",
+        "developerName": "Enmity Team",
+        "subtitle": "The power of addons, all in your hand.",
+        "version": "147.0",
+        "versionDate": "2022-10-05",
+        "versionDescription": "- Updated Discord to 174.0",
+        "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.4-147.0/enmity.ipa",
+        "localizedDescription": "Add plugins and themes to Discord!",
+        "iconURL": "https://files.enmity.app/icon-altstore.png",
+        "tintColor": "6D00FF",
+        "size": 76794285,
+        "beta": false
+      }
+    ],
+    "userInfo": {}
+  }
